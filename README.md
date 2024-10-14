@@ -2,7 +2,7 @@
 
 <img src="bloxify.png" alt="image" width="200"/>
 
-Bloxify is a plugin for replicating roblox bones/attachments onto custom roblox rigs. This is useful for creating a tower defense game because if you want to ad a six pack to your zombies and animate it like a normal roblox character, you would have to add all the motor6ds and attachments into each part. This plugin handles those scenarios.
+Bloxify is a plugin for replicating roblox bones/attachments onto custom roblox rigs(R6 + R15). This is useful for creating a tower defense game because if you want to ad a six pack to your zombies and animate it like a normal roblox character, you would have to add all the motor6ds and attachments into each part. This plugin handles those scenarios.
 
 # Issues
 
@@ -21,14 +21,5 @@ Generally its because you made changes on the opposite side of where the head wa
 If nothing has worked, try editing these values during export:
 
 <img src="https://github.com/user-attachments/assets/ce067877-38d2-4b13-bf1a-6ad543c46202" alt="image" width="300"/>
-
-
-
-After all that you'll have a rig that fits your needs:
-
-![b925b0d7c4f7feb47bbdf3e2adc38993](https://github.com/user-attachments/assets/791b18bb-c382-45e7-be9f-49db11e97058)
-
-
-
 
 
