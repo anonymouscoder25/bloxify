@@ -26,9 +26,7 @@ If nothing has worked, try editing these values during export:
 
 After all that you'll have a rig that fits your needs:
 
-<img src="https://gyazo.com/b925b0d7c4f7feb47bbdf3e2adc38993" alt="image" width="150"/>
-
-
+![b925b0d7c4f7feb47bbdf3e2adc38993](https://github.com/user-attachments/assets/791b18bb-c382-45e7-be9f-49db11e97058)
 
 
 
