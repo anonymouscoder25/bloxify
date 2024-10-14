@@ -6,8 +6,8 @@ Bloxify is a plugin for replicating roblox bones/attachments onto custom roblox 
 
 # How to use
 
-Origin rig is the rig you want to change
-Target rig is the rig you want to inherit bones/attachments from
+Origin rig is the rig you want to change.
+Target rig is the rig you want to inherit bones/attachments from.
 
 Select origin, then target, and press confirm. You may need to make manual adjustments to make it work correctly.
 
