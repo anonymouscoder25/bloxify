@@ -12,7 +12,6 @@ There are many issues you may come across that may require manual editing.
 
 If you add any geometry to your character that will increase its original size (such as a 6 pack), It won't center properly and you'll need to edit the motor6ds manually.
 
-
 <img src="https://github.com/user-attachments/assets/fec6e89c-eef3-4e0d-a4b8-d61db9cb8aa4" alt="image" width="300"/>
 
 ## Parts facing the wrong direction
@@ -21,9 +20,13 @@ Generally its because you made changes on the opposite side of where the head wa
 
 If nothing has worked, try editing these values during export:
 
-
 <img src="https://github.com/user-attachments/assets/ce067877-38d2-4b13-bf1a-6ad543c46202" alt="image" width="300"/>
 
+
+
+After all that you'll have a rig that fits your needs:
+
+<img src="https://gyazo.com/b925b0d7c4f7feb47bbdf3e2adc38993" alt="image" width="150"/>
 
 
 
