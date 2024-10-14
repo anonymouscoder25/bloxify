@@ -19,7 +19,6 @@ local viewports = pluginGui.Backdrop.Viewports
 [2] = target
 ]]
 
-
 local viewportTable = {}
 
 for _,viewport in ipairs(viewports:GetChildren()) do
