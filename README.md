@@ -1,8 +1,15 @@
 # bloxify
 
-<img src="bloxify.png" alt="image" width="200"/>
+<img src="https://github.com/user-attachments/assets/50732205-d9d2-4477-a33c-5d28a7f1309b" alt="image" width="200"/>
 
 Bloxify is a plugin for replicating roblox bones/attachments onto custom roblox rigs(R6 + R15). This is useful for creating a tower defense game because if you want to ad a six pack to your zombies and animate it like a normal roblox character, you would have to add all the motor6ds and attachments into each part. This plugin handles those scenarios.
+
+# How to use
+
+Origin rig is the rig you want to change.
+Target rig is the rig you want to inherit bones/attachments from.
+
+Select origin, then target, and press confirm. You may need to make manual adjustments to make it work correctly.
 
 # Issues
 
